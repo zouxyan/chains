@@ -22,8 +22,8 @@
   "slip44": 1,
   "explorers": [
     {
-      "name": "Jovay Sepolia Explorer",
-      "url": "https://sepolia-explorer.jovay.io/l2",
+      "name": "Jovay Testnet Explorer",
+      "url": "https://sepolia-explorer.jovay.io",
       "standard": "none"
     }
   ],
